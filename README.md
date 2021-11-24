@@ -1,8 +1,8 @@
-#MERN-Infrastructure
+# MERN-Infrastructure
 
 A boilerplate to get started with a MERN stack project in minutes.
 
-#Implements:
+## Implements:
 
 - JWT token authorization
 - Bcrypt password hashing
